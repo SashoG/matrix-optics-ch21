@@ -7,6 +7,14 @@ authors:
     given-names: Alexander
     affiliation: "Sofia University \"St. Kliment Ohridski\", Faculty of Physics"
 version: 1.0.0
+doi: 10.5281/zenodo.23868363
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23868363
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23868364
+    description: "Version DOI (v1.0.0)"
 date-released: 2026-11-01
 license: MIT
 repository-code: "https://github.com/SashoG/matrix-optics-ch21"
