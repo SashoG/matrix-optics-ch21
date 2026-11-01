@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Ако ползвате този код, моля, цитирайте го така. / If you use this code, please cite it as below."
+type: software
+title: "Матрични методи в оптиката — код към Глава 21 (Matrix Methods in Optics — companion code for Chapter 21)"
+authors:
+  - family-names: Gaydardzhiev
+    given-names: Alexander
+    affiliation: "Sofia University \"St. Kliment Ohridski\", Faculty of Physics"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/SashoG/matrix-optics-ch21"
+keywords:
+  - matrix optics
+  - ABCD matrices
+  - geometrical optics
+  - tolerance analysis
+  - Python

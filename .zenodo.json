@@ -1,0 +1,25 @@
+{
+  "title": "Матрични методи в оптиката — код към Глава 21 (Matrix Methods in Optics — companion code for Chapter 21)",
+  "upload_type": "software",
+  "description": "<p>Придружаващ код на Python към Глава 21 „Автоматизация на матричните пресмятания“ от учебника „Матрични методи в оптиката. Част I: Геометрична оптика“ (Софийски университет „Св. Климент Охридски“).</p><p><code>mathOptics.py</code> съдържа листингите от главата дума по дума и възпроизвежда всички числа в нея: кардинални елементи, таблица на чувствителността, анализ на толерансите по метода Монте Карло и оптимизация с компенсатор. <code>exercises_ch21.py</code> решава задачи 21.1–21.6 и проверява резултатите срещу книгата.</p><p><em>Companion Python code for Chapter 21 of a Bulgarian university textbook on matrix (ABCD) optics: system matrices, cardinal points, sensitivity and Monte Carlo tolerance analysis, and single-parameter optimisation of a Cooke-type triplet.</em></p>",
+  "creators": [
+    {
+      "name": "Gaydardzhiev, Alexander",
+      "affiliation": "Sofia University \"St. Kliment Ohridski\", Faculty of Physics"
+    }
+  ],
+  "license": "MIT",
+  "language": "bul",
+  "keywords": [
+    "matrix optics",
+    "ABCD matrices",
+    "ray transfer matrix",
+    "geometrical optics",
+    "cardinal points",
+    "tolerance analysis",
+    "Monte Carlo",
+    "Python",
+    "NumPy",
+    "textbook"
+  ]
+}
